@@ -9,7 +9,7 @@
   "iot_class": "cloud_polling",
   "name": "Inim Alarm",
   "requirements": [
-    "git+https://github.com/nidble/pyinim.git@master#pyinim_nidble==0.0.10"
+    "git+https://github.com/Andrea-Cecchi/pyinim.git@master#pyinim_nidble==0.0.10"
   ],
   "version": "0.1.0"
 }
